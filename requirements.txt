@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers
+accelerate
+huggingface_hub
+langchain-community
+langchain-core
+langchain-classic
+faiss-cpu
+pypdf
+sentence-transformers
+json-repair
